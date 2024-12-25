@@ -1,1 +1,11 @@
+// app/page.js
+
+export default function Home() {
+  return (
+    <div>
+      <h1>Добро пожаловать на мой лендинг!</h1>
+      <p>Здесь будет информация о франшизах.</p>
+    </div>
+  );
+}
 
